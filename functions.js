@@ -1,3 +1,3 @@
-function hello(){
-  console.log('DEU CERTO')
-}
+window.hello = function() {
+    console.log("Olá, mundo!");
+};
